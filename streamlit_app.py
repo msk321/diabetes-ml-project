@@ -30,4 +30,3 @@ if st.button("Predict"):
         precaution = "Your risk is low. Maintain a healthy lifestyle to keep it that way."
 
     st.write(f"Your diabetes risk is {output:.2f}%. {precaution}")
-
